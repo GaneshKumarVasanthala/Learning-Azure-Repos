@@ -1,2 +1,2 @@
 # Learning-Azure-Repos
-Curently learning Azure Devops with the basic connection with boards to Github repo
+Started to take things on a serious note with regards to basic repo stuff 
